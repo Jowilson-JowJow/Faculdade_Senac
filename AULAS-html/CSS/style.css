@@ -1,0 +1,43 @@
+body{
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+}
+strong{
+    color: darkorange;
+}
+h1,h2,h3{
+    color: bisque;
+    font-size: 24px;
+    text-align: left;
+}
+img{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+a {
+    display: flex;
+}
+button{
+    display: flex;
+    width: 200px;
+    height: 20px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 20px;
+    margin: 200px 600px 20px 500px;
+    align-items: center;
+    justify-content: center; 
+    cursor: pointer;
+
+}

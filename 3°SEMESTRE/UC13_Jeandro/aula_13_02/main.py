@@ -31,17 +31,4 @@ botao.pack()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 janela.mainloop()#looping que mantem a janela aberta -- sempre a ultima linha do codigo'

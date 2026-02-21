@@ -1,3 +1,5 @@
+#pedi ao chatGPT para enxugar o codigo da calculadora.py
+
 import tkinter as tk
 
 def calcular(operacao):
